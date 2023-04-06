@@ -11,3 +11,7 @@ SimpleHome_XCS7_1002_WHT_Security_Camera/
 SimpleHome_XCS7_1003_WHT_Security_Camera/
 demonstrate_structure.csv
 botiot/
+*.zip
+botiot_full/
+nbaiot_raw/
+.ipynb_checkpoints/
