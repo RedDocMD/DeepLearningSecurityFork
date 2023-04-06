@@ -484,3 +484,21 @@ Recall:1.0
 weighted avg    0.99880   0.99880   0.99879    976010
 
 =================================================================
+==== Experiment with 23 features ====
+Learning rate:0.00026080250141080906 - Epochs:50 - Batch size:97 - Anomaly threshold:0.04
+Training size:122667 - Testing size:976010
+Optimization time:408.2296645641327 - Training time:85.9479284286499 - Testing time:11.032305002212524
+Accuracy:0.9987664060819049
+F1-score:0.9993485123463405
+Precision:0.9986978730123367
+Recall:1.0
+              precision    recall  f1-score   support
+
+           0    1.00000   0.97710   0.98842     52573
+           1    0.99870   1.00000   0.99935    923437
+
+    accuracy                        0.99877    976010
+   macro avg    0.99935   0.98855   0.99388    976010
+weighted avg    0.99877   0.99877   0.99876    976010
+
+=================================================================
